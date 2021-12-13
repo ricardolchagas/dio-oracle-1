@@ -30,7 +30,7 @@ Método 1:  VM
 
 # Modelo de Dados
 _MER_
-![modelo de dados](modelo.png "Modelo")
+![modelo de dados](Modelo.png "Modelo")
 
 _Script_
 
