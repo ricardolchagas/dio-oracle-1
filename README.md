@@ -1,4 +1,8 @@
 # Spread DIO - Mentoria Oracle
+## _Apresentação_
+[Apresentação](Banco.pdf) em pdf
+
+
 ## _Instalando o banco de dados Oracle_
 
 Método 1:  VM
